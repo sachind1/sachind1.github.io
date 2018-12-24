@@ -1985,7 +1985,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-image: none;
+			/* background-image: none; */
 			background-color: #fafafa;
 			text-shadow: 1px 1px 0px #fff;
 		}
