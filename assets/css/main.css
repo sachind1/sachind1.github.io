@@ -1982,8 +1982,8 @@ input, select, textarea {
 		.wrapper.style1 {
 			background-image: url("images/unsplash.jpg");
 			/* height: 3200px;
-			background-position: center;
-			background-size: cover; */
+			background-position: center; */
+			background-size: cover;
 			background-color: #fff;
 		}
 
