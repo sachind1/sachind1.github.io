@@ -1980,7 +1980,7 @@ input, select, textarea {
 	}
 
 		.wrapper.style1 {
-			background-image: none;
+			background-image: url("images/unsplash.jpg");
 			background-color: #fff;
 		}
 
