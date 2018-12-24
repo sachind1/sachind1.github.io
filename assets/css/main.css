@@ -1982,6 +1982,7 @@ input, select, textarea {
 		.wrapper.style1 {
 			background-image: url("images/unsplash.jpg");
 			background-color: #fff;
+			height: 3200px;
 		}
 
 		.wrapper.style2 {
