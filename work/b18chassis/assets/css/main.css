@@ -1980,11 +1980,15 @@ input, select, textarea {
 	}
 
 		.wrapper.style1 {
-			background-image: none;
+			background-image: url("images/unsplash.jpg");
+			/* height: 3200px;
+			background-position: center; */
+			background-size: cover;
 			background-color: #fff;
 		}
 
 		.wrapper.style2 {
+			/* background-image: none; */
 			background-color: #fafafa;
 			text-shadow: 1px 1px 0px #fff;
 		}
@@ -2193,7 +2197,7 @@ input, select, textarea {
 
 		/* Articles */
 
-			#top {
+			/* #top {
 				padding: 8em 0;
 			}
 
@@ -2201,7 +2205,7 @@ input, select, textarea {
 					width: 24em;
 					height: 24em;
 					margin: 0;
-				}
+				} */
 
 	}
 
